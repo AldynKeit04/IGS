@@ -2,7 +2,7 @@ Index
 ______________________________
 Used for finding Lore Blocks, look up name of said block in Discord inbuilt search.
 ______________________________
-1. [IGS Server Lore and How it Relates to IGS](https://github.com/AldynKeit04/IGS/blob/main/IGS%20General%20Lore/LB1:%20IGS%20Server%20and%20How%20it%20Relates%20to%20IGS%20Lore.md)
+1. [IGS Server Lore and How it Relates to IGS](https://github.com/AldynKeit04/IGS/blob/main/IGS%20General%20Lore/Lore%20Blocks/LB1:%20IGS%20Server%20and%20How%20it%20Relates%20to%20IGS%20Lore.md)
 2. The Beings of IGS and the Stadthalder
 3. New Word Coined: Entigons
 4. Pocket Dimensions and Rifts
