@@ -3,29 +3,25 @@ ______________________________
 Used for finding Lore Blocks, look up name of said block in Discord inbuilt search.
 ______________________________
 1. [IGS Server Lore and How it Relates to IGS](https://github.com/AldynKeit04/IGS/blob/main/IGS%20General%20Lore/Lore%20Blocks/LB1:%20IGS%20Server%20and%20How%20it%20Relates%20to%20IGS%20Lore.md)
-2. The Beings of IGS and the Stadthalder
-3. New Word Coined: Entigons
-4. Pocket Dimensions and Rifts
-5. The Cup
-6. The bfatsoo Hivemind
-7. The Perfect W2 and the W2 Cult
-8. Geometry
-9. Polygons and Wiregons
-10. Battlefields and Final Destinations
-11. Polygon and Wiregon Raiding Bands
-12. Luigi
-13. 'Gon Strongholds
-14. 'Gon Anchors
-15. A ship
-16. 'gon Crystals and Human Materials
-17. Lavagons
-18. A safe
-19. A New Rift
-20. Biomes of IGS - Quatrafields
-21. The Maps
-22. Detroit Empire Pt 1
-23. Detroit Empire Pt 2
-24. Detroit Empire Pt 3
-25. Collapse of ### ######
-26. A Plague Begins Spreading in Azulirian Space
-27. A Gas Fills an Area of IGS Space
+2. [The Beings of IGS and the Stadthalder](https://github.com/AldynKeit04/IGS/blob/main/IGS%20General%20Lore/Lore%20Blocks/LB2:%20The%20Beings%20of%20IGS%20and%20the%20Stadthalder.md)
+3. [Pocket Dimensions and Rifts](https://github.com/AldynKeit04/IGS/blob/main/IGS%20General%20Lore/Lore%20Blocks/LB3:%20Pocket%20Dimensions%20and%20Rifts.md)
+4. [The Cup](https://github.com/AldynKeit04/IGS/blob/main/IGS%20General%20Lore/Lore%20Blocks/LB4:%20The%20Cup.md)
+5. [The bfatsoo Hivemind](https://github.com/AldynKeit04/IGS/blob/main/IGS%20General%20Lore/Lore%20Blocks/LB5:%20The%20Bfatsoo%20Hivemind.md)
+6. [The Perfect W2 and the W2 Cult](https://github.com/AldynKeit04/IGS/blob/main/IGS%20General%20Lore/Lore%20Blocks/LB6:%20The%20Perfect%20W2%20and%20W2%20Cult.md)
+7. [Geometry](https://github.com/AldynKeit04/IGS/blob/main/IGS%20General%20Lore/Lore%20Blocks/LB7:%20Geometry.md)
+8. [Polygons and Wiregons](https://github.com/AldynKeit04/IGS/blob/main/IGS%20General%20Lore/Lore%20Blocks/LB8:%20Polygons%20and%20Wiregons.md)
+9. [Battlefields and Final Destinations](https://github.com/AldynKeit04/IGS/blob/main/IGS%20General%20Lore/Lore%20Blocks/LB10:%20Battlefields%20and%20Final%20Destinations.md)
+10. [Polygon and Wiregon Raiding Bands](https://github.com/AldynKeit04/IGS/blob/main/IGS%20General%20Lore/Lore%20Blocks/LB11:%20Polygon%20and%20Wiregon%20Raiding%20Bands.md)
+11. [Luigi](https://github.com/AldynKeit04/IGS/blob/main/IGS%20General%20Lore/Lore%20Blocks/LB12:%20Luigi.md)
+12. ['Gon Strongholds](https://github.com/AldynKeit04/IGS/blob/main/IGS%20General%20Lore/Lore%20Blocks/LB13:%20'Gon%20Strongholds.md)
+13. ['Gon Anchors](https://github.com/AldynKeit04/IGS/blob/main/IGS%20General%20Lore/Lore%20Blocks/LB14:%20'Gon%20Anchors.md)
+14. [A ship](https://github.com/AldynKeit04/IGS/blob/main/IGS%20General%20Lore/Lore%20Blocks/LB15:%20A%20Ship.md)
+15. ['gon Crystals and Human Materials](https://github.com/AldynKeit04/IGS/blob/main/IGS%20General%20Lore/Lore%20Blocks/LB16:%20'Gon%20Crystals%20and%20Human%20Materials.md)
+16. [Lavagons](https://github.com/AldynKeit04/IGS/blob/main/IGS%20General%20Lore/Lore%20Blocks/LB17:%20Lavagons.md)
+17. [A safe](https://github.com/AldynKeit04/IGS/blob/main/IGS%20General%20Lore/Lore%20Blocks/LB18:%20A%20Safe.md)
+18. [A New Rift](https://github.com/AldynKeit04/IGS/blob/main/IGS%20General%20Lore/Lore%20Blocks/LB19:%20A%20New%20Rift.md)
+19. [Biomes of IGS - Quatrafields](https://github.com/AldynKeit04/IGS/blob/main/IGS%20General%20Lore/Lore%20Blocks/LB20:%20Biomes%20of%20IGS%20-%20Quatrafields.md)
+20. [Detroit Empire Pt 1-3](https://github.com/AldynKeit04/IGS/blob/main/IGS%20General%20Lore/Lore%20Blocks/LB21:%20Detroit%20Empire.md)
+21. [Collapse of ### ######](https://github.com/AldynKeit04/IGS/blob/main/IGS%20General%20Lore/Lore%20Blocks/LB22:%20The%20Collapse%20of%20%23%23%23%20%23%23%23%23%23%23.md)
+22. [A Plague Begins Spreading in Azulirian Space](https://github.com/AldynKeit04/IGS/blob/main/IGS%20General%20Lore/Lore%20Blocks/LB24:%20Plague%20Begins%20Spreading%20in%20Azulirian%20Space.md)
+23. [A Gas Fills an Area of IGS Space](https://github.com/AldynKeit04/IGS/blob/main/IGS%20General%20Lore/Lore%20Blocks/LB25:%20A%20Gas%20Fills%20an%20Area%20of%20IGS%20Space.md)
