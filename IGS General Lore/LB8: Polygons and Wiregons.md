@@ -1,0 +1,4 @@
+___________________________
+Polygons and Wiregons
+___________________________
+Polygons and wiregons are the non-sentient creatures that live on the wireframes and geometry. They always existed, and just occasionally duplicate. They are immortal until killed. They are both almost completely non sentient, and are essentially just animals. All they do is roam around the surface of the geometry, and become instantly hostile to non wireframes and non polygons. Polygons look like humanoids, but made of purple/magenta-ish and red crystals, but they vary a lot in shape and size. Wireframes look much more like normal humanoids. The polygons make noise, but not the wiregons. Wiregons are much more humanoid than the Polygons, and vary in color, although on the Synthwave planets they are specifically purple, reddish orange, and cyan.

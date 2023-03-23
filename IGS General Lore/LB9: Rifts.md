@@ -1,0 +1,4 @@
+___________________________
+Rifts
+___________________________
+Rifts are essentially small tears that lead to other worlds. These rifts are rare and are found throughout IGS space. There are 2 main rifts, Minecraft rifts, and well, just rifts. Minecraft rifts lead to minecraft world, and the first Entigon that enters a rift controls it. When a Minecraft rift is entered, it is blank, and there are 2 generation choices, random, and flat. Flat creates a flat world, and random generates a random infinite topography, each of said topography having a generation code associated with it to regenerate it. There can be Minecraft rifts that are not necessarily Minecraft in how they are aesthetically or how they work, but what happens in them are still represented by our irl Minecraft worlds. Non Minecraft rifts are essentially voids that are a blank canvas for an entigon to do whatever in them. 

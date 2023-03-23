@@ -1,0 +1,4 @@
+-------------------------------
+A gas fills an area of IGS space 
+-------------------------------
+Almost out of nowhere, a cloud of gas begins to materialize and move into IGS. This gas is black, although it has moving zips of energy going through it. Within the gas are various different satellites, all around the same size, with their faces equally distributed like a cube. Various scientists who made their way to the gas discovered that these zips of energy are actually stored data, and when this data is called, the zips are visibly seen to go towards the connection, usually within the span of a second or two. Only small amounts of data have been collected by Azulirian scientists due to the ongoing plague, but via trader connections to the Earthen Galactic Defenders, it is found that much of the documents are written in the Earthen languages known as German, Latin, and Greek.
